@@ -1,6 +1,6 @@
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background: linear-gradient(to right, #6a11cb, #2575fc);
+  background: linear-gradient(to right, #834cbe, #0d3e92);
   color: #fff;
   display: flex;
   flex-direction: column;
@@ -57,14 +57,14 @@ button {
   font-size: 1rem;
   border: none;
   border-radius: 8px;
-  background-color: #00c9a7;
+  background-color: #c90000;
   color: white;
   cursor: pointer;
   transition: background-color 0.3s;
 }
 
 button:hover {
-  background-color: #02a58f;
+  background-color: #c90000;
 }
 
 #mensagem {
